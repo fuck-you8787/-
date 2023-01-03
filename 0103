@@ -1,34 +1,34 @@
-# Von Neumann architecture
+## Von Neumann architecture
   -馮諾依曼架構。
   -有算術邏輯單元。
   -有處理器寄存器的處理單元。
   -有指令寄存器的控制單元。
   -有程序計數器的控制單元。
-# instruction cycle
+## instruction cycle
   - 指令周期。
   -有取指.解碼.執行階段。
   -是通過指令流水線並發執行的。
   -CPU從啟動到計算機關閉以處理指令所遵循的周期
   -通常是並行執行的。
-#HTML
+## HTML
   -HTML元素是構建網站的基石。
   -允許嵌入圖像與物件。
   -被用來結構化資訊，例如標題。
   -HyperText Markup Language  超文本標記語言。
   -一種用於建立網頁的標準標記語言。
-#CSS
+## CSS
   -為結構化文件添加樣式。
   -階層式樣式表  Cascading Style Sheets。
   -目標是將檔案的內容與它的顯示分隔開。
   -由多組「規則」組成。
   -規則由「選擇器」（selector）、「屬性」（property）和「值」（value）組成
-#JAVASCRIPT
+## JAVASCRIPT
   -縮寫為JS。
   -支援物件導向程式設計。
   -支援指令式編程。
   -支援函式語言程式設計。
   -可以被即時編譯（JIT）。
-#RWD
+## RWD
   -易於維護網頁。
   -回應式網頁設計   Responsive Web Design
   -一個使網頁上的元素們能適應不同的裝置。
